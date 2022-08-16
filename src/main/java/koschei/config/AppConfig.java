@@ -17,8 +17,4 @@ public class AppConfig {
     public static Duck5 getDuck(Egg6 egg) {
         return new Duck5(egg);
     }
-    @Bean
-    public static Deth8 getDeath() {
-        return new Deth8();
-    }
 }
